@@ -1,8 +1,10 @@
 # BottomTabView
 
+fork自ifmo的https://github.com/ifmvo/BottomTabView
+
 可以直接复制代码
 
-[BottomTabView.java](/app/src/main/java/com/ifmvo/bottomtabview/BottomTabView.java)
+[BottomTabView.java](/app/src/main/java/com/example/bottomtabview/BottomTabView.java)
 
 [view_tab_item.xml](/app/src/main/res/layout/view_tab_item.xml)
 
