@@ -1,6 +1,7 @@
+#fork自ifmo的https://github.com/ifmvo/BottomTabView
+
 # BottomTabView
 
-fork自ifmo的https://github.com/ifmvo/BottomTabView
 
 可以直接复制代码
 
